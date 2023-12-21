@@ -1,0 +1,4 @@
+// GET ALL PRODUCT
+GET http://localhost:8000/product/1
+
+// GET PRODUCT BY 
